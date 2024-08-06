@@ -1,0 +1,6 @@
+XYZ Company Product Catalog
+
+Our product range includes:
+- Financial Software
+- Business Solutions
+- Support Services
