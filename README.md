@@ -14,7 +14,8 @@ This project is a chatbot that can answer user queries from documents and collec
 - Extract dates from user input in various formats.
 
 
-##to run
+##to run:
+
 chainlit run <your file name>.py
 
 ## Installation
