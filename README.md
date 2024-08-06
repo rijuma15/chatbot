@@ -13,6 +13,10 @@ This project is a chatbot that can answer user queries from documents and collec
 - Validate user input (email, phone number).
 - Extract dates from user input in various formats.
 
+
+##to run
+chainlit run <your file name>.py
+
 ## Installation
 
 1. Clone the repository:
@@ -20,4 +24,6 @@ This project is a chatbot that can answer user queries from documents and collec
 ```sh
 git clone https://github.com/rijuma15/chatbot.git
 cd chatbot
->>>>>>> 4f8b230 (Add chatbot project files)
+>>>>>>>
+
+
